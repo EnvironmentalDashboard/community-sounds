@@ -1,0 +1,9 @@
+// assets/css/global.scss
+
+// the ~ allows you to reference things in node_modules
+@import "~bootswatch/dist/minty/variables";
+@import "~bootstrap/scss/bootstrap";
+
+header {
+    margin-bottom: 2em
+}
